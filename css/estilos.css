@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";
+
+.bs-header-bottom {
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.no-navbar {
+	margin-bottom: 0px;
+}
+
+.no-navbar-brand {
+	padding: 0px;
+}
+
+.bs-docs-footer {
+	padding-top: 20px;
+	text-align: center;
+	border-top: 1px solid #e5e5e5;
+}
+
+.bs-sidebar-left {
+	padding-left: 5px;
+	border-left: 1px solid #e5e5e5;
+}
+
+.bs-widget-space {
+	
+	padding-top: 40px;
+	height: 150px;
+		
+}
+
+.bs-pull-center{
+	
+	text-align: center;
+	
+}
